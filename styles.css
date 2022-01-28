@@ -40,7 +40,7 @@ footer {
 
 }
 
-@media (max-width:800px) {
+@media (max-width:480px) {
 
   .h1tag {
     margin: 10px;
